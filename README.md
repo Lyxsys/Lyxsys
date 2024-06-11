@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lyxsys
+- 👋 Hi, I’m @Lyxsys. I'm an IT Project Manager.
 - 👀 I’m interested in Python, PHP, Java and software developpement, and IT Project management
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on ...
